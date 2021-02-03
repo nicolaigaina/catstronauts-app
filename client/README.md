@@ -1,3 +1,3 @@
 # Catstronauts (client)
 
-Apollo's lift-off course companion app (completed)
+Apollo's lift-off course companion app

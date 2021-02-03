@@ -1,7 +1,6 @@
 # Catstronauts
 
-Apollo's lift-off course companion app (completed)
-[Live Demo App](https://lift-off-client-demo.netlify.app/)
+Apollo's lift-off course companion app
 
 ## Run the project
 
@@ -20,3 +19,13 @@ from another terminal window:
 
 - install packages `cd client && npm install`
 - start react app `npm start`
+
+### teck stack
+
+- react
+- graphql
+- apollo
+- nodejs
+- javascript
+- emotion
+- create-react-app
