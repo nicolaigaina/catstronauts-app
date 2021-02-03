@@ -20,7 +20,7 @@ from another terminal window:
 - install packages `cd client && npm install`
 - start react app `npm start`
 
-### teck stack
+### tech stack
 
 - react
 - graphql
